@@ -24,10 +24,10 @@ description: A virtual proof that name is awesome! #hover over tab description
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Python: "" # add link for Python Post
+  Raspberry Pi : "" # add link for Raspberry Pi Post
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Python :
-    - Raspberry Pi:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
  # Author's home: "http://deanattali.com"
@@ -84,7 +84,7 @@ share-links-active:
   twitter: false
   facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
