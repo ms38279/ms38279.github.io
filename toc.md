@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Table of content
+title: Table of contents
 subtitle: Posts by tag
 ---
 
-# Table of content
+# Table of contents
 Click on each post title to view it.
 
 {% for tag in site.tags %}
