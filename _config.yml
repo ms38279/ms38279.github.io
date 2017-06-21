@@ -23,6 +23,7 @@ description: A virtual proof that name is awesome! #hover over tab description
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "/"
   About Me: "aboutme"
  # Python: " " # add link for Python Post; to be added
  # Raspberry Pi : " " # add link for Raspberry Pi Post; to be added
