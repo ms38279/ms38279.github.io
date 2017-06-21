@@ -24,8 +24,8 @@ description: A virtual proof that name is awesome! #hover over tab description
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Python: "" # add link for Python Post; to be added
-  Raspberry Pi : "" # add link for Raspberry Pi Post; to be added
+  Python: " " # add link for Python Post; to be added
+  Raspberry Pi : " " # add link for Raspberry Pi Post; to be added
  # Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
