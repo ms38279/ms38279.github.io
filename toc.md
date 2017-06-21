@@ -8,9 +8,9 @@ subtitle: Posts by tag
 Click on each post title to view it.
 
 {% for tag in site.tags %}
-  <h2 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>
+  <h2 class='tag-header' id="{{ tag[0] }}-ref">{{ tag[0] }}</h2>  <!--dislay tags -->
   <ul>
-    {% assign pages_list = tag[1] %}
+    {% assign pages_list = tag[1] %} <!-- assign tag to page_list -->
 
     {% for node in pages_list %}
       {% if node.title != null %}
